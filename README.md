@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itmejayesh&label=Profile%20views&color=0e75b6&style=flat" alt="itmejayesh" /> </p>
 
-- 🔭 I’m currently working on videoTube APP [VideoTube](https://vidiotube.netlify.app)
+- 🔭 I’m currently working on Todo APP [TodoApp](https://todo-app-git-main-app-itmejayesh.vercel.app/login)
 
 - 🌱 I’m currently learning **Nextjs 13, TypeScript, React-Native**
 
