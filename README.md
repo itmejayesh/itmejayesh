@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itmejayesh&label=Profile%20views&color=0e75b6&style=flat" alt="itmejayesh" /> </p>
 
-- 🌱 I’m currently learning **Nextjs 13, TypeScript, React-Native**
+- 🌱 I’m currently learning **Nextjs 14, TypeScript, React-Native**
 
 - 💬 Ask me about **reactjs, nextjs, javascript**
 
