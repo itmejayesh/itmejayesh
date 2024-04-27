@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Jayesh Gadhok</h1>
 <h3 align="center">A passionate developer from India.Quick learner with a strong passion for learning new technologies and frameworks. Enjoys the challenge of debugging and finding solutions to problems.</h3>
 
-<img align="right" width="400" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif"/>
+<img align="right" width="400" src="https://anuragbhardwaj.netlify.app/codingguy.gif" style="image-rendering: pixelated; outline: 2px solid black; filter: blur(2px); image-rendering: auto; image-rendering: crisp-edges; image-rendering: pixelated;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itmejayesh&label=Profile%20views&color=0e75b6&style=flat" alt="itmejayesh" /> </p>
 
